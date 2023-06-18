@@ -1,0 +1,58 @@
+{
+    "cifar10": {
+        "Non-Private": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.7.json"
+        ],
+        "Original-DPSGD": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.7_eps_7.56.json"
+        ],
+        "Papernot et al.": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/papernot_m_0.7_eps_7.56_C_0.6.json"
+        ],
+        "Dynamic-Momentum (Ours)": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/dec_m_0.84_eps_7.56_C_0.5.json"
+        ]
+    },
+    "mnist": {
+        "Non-Private": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.3.json"
+        ],
+        "Original-DPSGD": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.3_eps_3.0_C_0.6.json"
+        ],
+        "Papernot et al.": [
+            "/kolla/lgb/dynamic_momentum/mnist/tanh/papernot_m_0.3_eps_3.0_C_0.7.json"
+        ],
+        "Dynamic-Momentum (Ours)": [
+            "/kolla/lgb/dynamic_momentum/mnist/tanh/dec_m_0.55_eps_3.0_C_0.7.json"
+        ]
+    },
+    "fashionmnist": {
+        "Non-Private": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.7.json"
+        ],
+        "Original-DPSGD": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.5_eps_2.7.json"
+        ],
+        "Papernot et al.": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/tanh/m_0.3_eps_2.7.json"
+        ],
+        "Dynamic-Momentum (Ours)": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/tanh/dec_m_0.75_eps_2.7_C_0.6.json"
+        ]
+    },
+    "imagenette": {
+        "Non-Private": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.93.json"
+        ],
+        "Original-DPSGD": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.7_eps_11_C6.json"
+        ],
+        "Papernot et al.": [
+            "/kolla/lgb/dynamic_momentum/imagenette/tanh/m_0.9_eps_11_C6.json"
+        ],
+        "Dynamic-Momentum (Ours)": [
+            "/kolla/lgb/dynamic_momentum/imagenette/tanh/dec_m_0.95_eps_11_C6.json"
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "cifar10": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.0.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.1.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.3.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.5.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.7.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.9.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.93.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.95.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.97.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/cifar10/no_private/m_0.99.json"
+        ]
+    },
+    "mnist": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.0.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.1.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.3.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.5.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.7.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.9.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.93.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.95.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.97.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/mnist/no_private/m_0.99.json"
+        ]
+    },
+    "fashionmnist": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.0.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.1.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.3.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.5.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.7.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.9.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.93.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.95.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.97.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/no_private/m_0.99.json"
+        ]
+    },
+    "imagenette": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.0.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.1.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.3.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.5.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.7.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.9.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.93.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.95.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.97.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/imagenette/no_private/m_0.99.json"
+        ]
+    }
+}

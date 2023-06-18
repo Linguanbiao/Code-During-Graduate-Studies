@@ -1,0 +1,84 @@
+(60000, 1, 28, 28)
+(10000, 1, 28, 28)
+Training...
+Train Epoch: 0 Loss: 1.156135 Acc@1: 0.600437 (ε = 0.6312, δ = 1e-05) for α = 16.0
+Test Accuracy: 0.7178
+Train Epoch: 1 Loss: 0.985066 Acc@1: 0.666419 (ε = 0.7443, δ = 1e-05) for α = 16.0
+Test Accuracy: 0.7355
+Train Epoch: 2 Loss: 0.933565 Acc@1: 0.694665 (ε = 0.8549, δ = 1e-05) for α = 15.0
+Test Accuracy: 0.7555
+Train Epoch: 3 Loss: 0.903314 Acc@1: 0.713429 (ε = 0.9532, δ = 1e-05) for α = 15.0
+Test Accuracy: 0.7729
+Train Epoch: 4 Loss: 0.879131 Acc@1: 0.727700 (ε = 1.0515, δ = 1e-05) for α = 15.0
+Test Accuracy: 0.7822
+Train Epoch: 5 Loss: 0.859343 Acc@1: 0.738863 (ε = 1.1454, δ = 1e-05) for α = 14.0
+Test Accuracy: 0.792
+Train Epoch: 6 Loss: 0.842331 Acc@1: 0.748000 (ε = 1.2349, δ = 1e-05) for α = 14.0
+Test Accuracy: 0.8004
+Train Epoch: 7 Loss: 0.827136 Acc@1: 0.755690 (ε = 1.3173, δ = 1e-05) for α = 13.0
+Test Accuracy: 0.8041
+Train Epoch: 8 Loss: 0.813692 Acc@1: 0.762301 (ε = 1.3983, δ = 1e-05) for α = 12.0
+Test Accuracy: 0.81
+Train Epoch: 9 Loss: 0.801719 Acc@1: 0.768089 (ε = 1.4721, δ = 1e-05) for α = 12.0
+Test Accuracy: 0.814
+Train Epoch: 10 Loss: 0.790658 Acc@1: 0.773208 (ε = 1.5460, δ = 1e-05) for α = 12.0
+Test Accuracy: 0.8179
+Train Epoch: 11 Loss: 0.780269 Acc@1: 0.777736 (ε = 1.6153, δ = 1e-05) for α = 10.9
+Test Accuracy: 0.8212
+Train Epoch: 12 Loss: 0.770721 Acc@1: 0.781830 (ε = 1.6811, δ = 1e-05) for α = 10.9
+Test Accuracy: 0.8247
+Train Epoch: 13 Loss: 0.761883 Acc@1: 0.785545 (ε = 1.7460, δ = 1e-05) for α = 10.6
+Test Accuracy: 0.8258
+Train Epoch: 14 Loss: 0.753492 Acc@1: 0.789000 (ε = 1.8089, δ = 1e-05) for α = 10.4
+Test Accuracy: 0.8269
+Train Epoch: 15 Loss: 0.745819 Acc@1: 0.792157 (ε = 1.8700, δ = 1e-05) for α = 10.1
+Test Accuracy: 0.8311
+Train Epoch: 16 Loss: 0.738496 Acc@1: 0.795139 (ε = 1.9295, δ = 1e-05) for α = 9.9
+Test Accuracy: 0.834
+Train Epoch: 17 Loss: 0.731401 Acc@1: 0.797931 (ε = 1.9875, δ = 1e-05) for α = 9.7
+Test Accuracy: 0.8356
+Train Epoch: 18 Loss: 0.724587 Acc@1: 0.800570 (ε = 2.0441, δ = 1e-05) for α = 9.5
+Test Accuracy: 0.8375
+Train Epoch: 19 Loss: 0.718229 Acc@1: 0.803049 (ε = 2.0995, δ = 1e-05) for α = 9.3
+Test Accuracy: 0.8385
+Train Epoch: 20 Loss: 0.712166 Acc@1: 0.805393 (ε = 2.1537, δ = 1e-05) for α = 9.1
+Test Accuracy: 0.8415
+Train Epoch: 21 Loss: 0.706300 Acc@1: 0.807637 (ε = 2.2068, δ = 1e-05) for α = 9.0
+Test Accuracy: 0.8452
+Train Epoch: 22 Loss: 0.700869 Acc@1: 0.809752 (ε = 2.2588, δ = 1e-05) for α = 8.8
+Test Accuracy: 0.8461
+Train Epoch: 23 Loss: 0.695635 Acc@1: 0.811762 (ε = 2.3099, δ = 1e-05) for α = 8.7
+Test Accuracy: 0.848
+Train Epoch: 24 Loss: 0.690728 Acc@1: 0.813663 (ε = 2.3602, δ = 1e-05) for α = 8.6
+Test Accuracy: 0.8481
+Train Epoch: 25 Loss: 0.685949 Acc@1: 0.815450 (ε = 2.4095, δ = 1e-05) for α = 8.4
+Test Accuracy: 0.8495
+Train Epoch: 26 Loss: 0.681250 Acc@1: 0.817194 (ε = 2.4580, δ = 1e-05) for α = 8.3
+Test Accuracy: 0.8511
+Train Epoch: 27 Loss: 0.676904 Acc@1: 0.818867 (ε = 2.5058, δ = 1e-05) for α = 8.2
+Test Accuracy: 0.8519
+Train Epoch: 28 Loss: 0.672807 Acc@1: 0.820462 (ε = 2.5529, δ = 1e-05) for α = 8.1
+Test Accuracy: 0.8511
+Train Epoch: 29 Loss: 0.668939 Acc@1: 0.822002 (ε = 2.5993, δ = 1e-05) for α = 8.0
+Test Accuracy: 0.8538
+Train Epoch: 30 Loss: 0.665188 Acc@1: 0.823478 (ε = 2.6451, δ = 1e-05) for α = 7.9
+Test Accuracy: 0.8536
+Train Epoch: 31 Loss: 0.661678 Acc@1: 0.824918 (ε = 2.6902, δ = 1e-05) for α = 7.8
+Test Accuracy: 0.8539
+Train Epoch: 32 Loss: 0.658322 Acc@1: 0.826269 (ε = 2.7347, δ = 1e-05) for α = 7.7
+Test Accuracy: 0.8559
+Train Epoch: 33 Loss: 0.654955 Acc@1: 0.827595 (ε = 2.7787, δ = 1e-05) for α = 7.6
+Test Accuracy: 0.8569
+Train Epoch: 34 Loss: 0.651689 Acc@1: 0.828878 (ε = 2.8222, δ = 1e-05) for α = 7.5
+Test Accuracy: 0.8578
+Train Epoch: 35 Loss: 0.648521 Acc@1: 0.830103 (ε = 2.8651, δ = 1e-05) for α = 7.5
+Test Accuracy: 0.8591
+Train Epoch: 36 Loss: 0.645502 Acc@1: 0.831270 (ε = 2.9075, δ = 1e-05) for α = 7.4
+Test Accuracy: 0.8584
+Train Epoch: 37 Loss: 0.642685 Acc@1: 0.832397 (ε = 2.9494, δ = 1e-05) for α = 7.3
+Test Accuracy: 0.8598
+Train Epoch: 38 Loss: 0.639951 Acc@1: 0.833478 (ε = 2.9909, δ = 1e-05) for α = 7.2
+Test Accuracy: 0.8608
+Train Epoch: 39 Loss: 0.637244 Acc@1: 0.834537 (ε = 3.0320, δ = 1e-05) for α = 7.2
+Test Accuracy: 0.8611
+{0: 0.7178, 1: 0.7355, 2: 0.7555, 3: 0.7729, 4: 0.7822, 5: 0.792, 6: 0.8004, 7: 0.8041, 8: 0.81, 9: 0.814, 10: 0.8179, 11: 0.8212, 12: 0.8247, 13: 0.8258, 14: 0.8269, 15: 0.8311, 16: 0.834, 17: 0.8356, 18: 0.8375, 19: 0.8385, 20: 0.8415, 21: 0.8452, 22: 0.8461, 23: 0.848, 24: 0.8481, 25: 0.8495, 26: 0.8511, 27: 0.8519, 28: 0.8511, 29: 0.8538, 30: 0.8536, 31: 0.8539, 32: 0.8559, 33: 0.8569, 34: 0.8578, 35: 0.8591, 36: 0.8584, 37: 0.8598, 38: 0.8608, 39: 0.8611}

@@ -1,0 +1,130 @@
+{
+    "cifar10": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.0_eps_7.56.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.1_eps_7.56.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.3_eps_7.56.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.5_eps_7.56.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.7_eps_7.56.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.9_eps_7.56.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.93_eps_7.56.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.95_eps_7.56.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.97_eps_7.56.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/cifar10/tanh/m_0.99_eps_7.56.json"
+        ]
+    },
+    "mnist": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.0_eps_3.0_C_0.6.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.1_eps_3.0_C_0.6.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.3_eps_3.0_C_0.6.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.5_eps_3.0_C_0.6.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.7_eps_3.0_C_0.6.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.9_eps_3.0_C_0.6.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.93_eps_3.0_C_0.6.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.95_eps_3.0_C_0.6.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.97_eps_3.0_C_0.6.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/mnist/relu/m_0.99_eps_3.0_C_0.6.json"
+        ]
+    },
+    "fashionmnist": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.0_eps_2.7.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.1_eps_2.7.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.3_eps_2.7.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.5_eps_2.7.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.7_eps_2.7.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.9_eps_2.7.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.93_eps_2.7.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.95_eps_2.7.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.97_eps_2.7.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/fashionmnist/relu/m_0.99_eps_2.7.json"
+        ]
+    },
+    "imagenette": {
+        "w/o": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.0_eps_11_C6.json"
+        ],
+        "0.1": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.1_eps_11_C6.json"
+        ],
+        "0.3": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.3_eps_11_C6.json"
+        ],
+        "0.5": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.5_eps_11_C6.json"
+        ],
+        "0.7": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.7_eps_11_C6.json"
+        ],
+        "0.9": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.9_eps_11_C6.json"
+        ],
+        "0.93": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.93_eps_11_C6.json"
+        ],
+        "0.95": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.95_eps_11_C6.json"
+        ],
+        "0.97": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.97_eps_11_C6.json"
+        ],
+        "0.99": [
+            "/kolla/lgb/dynamic_momentum/imagenette/relu/m_0.99_eps_11_C6.json"
+        ]
+    }
+}
